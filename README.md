@@ -10,5 +10,23 @@
 - ⚡ Fun fact: I can play guitar, _cavaquinho_ and _pandeiro_.
 
 
-[![Ygor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygorluizfrazao&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygorluizfrazao&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div id="stats" align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ygorluizfrazao&count_private=true&show_icons=true&theme=radical" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://ko-fi.com/ygorfrazao](https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorluizfrazao&layout=compact&theme=radical" alt="Youtube Badge"/>
+  </a>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ygorluizfrazao/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://ko-fi.com/ygorfrazao">
+    <img src="https://img.shields.io/badge/Kofi-blue?style=flat&logo=kofi&logoColor=white" alt="Youtube Badge"/>
+  </a>
+    <a href="https://stackoverflow.com/users/8331852/">
+    <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white" alt="StackOverflow Badge"/>
+  </a>
+</div>
