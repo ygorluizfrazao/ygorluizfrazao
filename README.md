@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on everything, just like to learn new things.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Computer Science, Data Structures, Android, Java, I.A., SQL;
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ygorluizfrazao/) and [Github](https://github.com/ygorluizfrazao).
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ygorluizfrazao/), [Github](https://github.com/ygorluizfrazao) and [StackOverflow](https://stackoverflow.com/users/8331852).
 - 😄 Pronouns: He/Him/His/_Bro_
 - ⚡ Fun fact: I can play guitar, _cavaquinho_ and _pandeiro_.
 
