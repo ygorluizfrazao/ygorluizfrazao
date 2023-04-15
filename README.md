@@ -18,7 +18,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorluizfrazao&layout=compact&theme=radical" alt="Youtube Badge"/>
   </a>
 </div>
-
+<br/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ygorluizfrazao/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
