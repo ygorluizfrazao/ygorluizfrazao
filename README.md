@@ -26,7 +26,7 @@
   <a href="https://ko-fi.com/ygorfrazao">
     <img src="https://img.shields.io/badge/Kofi-blue?style=flat&logo=kofi&logoColor=white" alt="Youtube Badge"/>
   </a>
-    <a href="https://stackoverflow.com/users/8331852/">
+    <a href="https://meta.stackoverflow.com/users/8331852/ygor-frazão">
     <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
 </div>
