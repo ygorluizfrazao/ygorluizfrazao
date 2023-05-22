@@ -15,7 +15,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ygorluizfrazao&count_private=true&show_icons=true&theme=radical" alt="LinkedIn Badge"/>
   </a>
   <a href="https://ko-fi.com/ygorfrazao](https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorluizfrazao&layout=compact&theme=radical" alt="Youtube Badge"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorluizfrazaot&theme=radical" alt="Youtube Badge"/>
   </a>
 </div>
 <br/>
