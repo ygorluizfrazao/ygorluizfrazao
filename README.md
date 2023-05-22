@@ -14,7 +14,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ygorluizfrazao&count_private=true&show_icons=true&theme=radical" alt="Stats"/>
   </a>
-  <a href="https://ko-fi.com/ygorfrazao](https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorluizfrazaot&theme=radical" alt="Languages"/>
   </a>
 </div>
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://ko-fi.com/ygorfrazao">
-    <img src="https://img.shields.io/badge/Kofi-blue?style=flat&logo=kofi&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Kofi-blue?style=flat&logo=kofi&logoColor=white" alt="Ko-fi Badge"/>
   </a>
     <a href="https://meta.stackoverflow.com/users/8331852/ygor-frazão">
     <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white" alt="StackOverflow Badge"/>
