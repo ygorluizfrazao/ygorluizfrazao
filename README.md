@@ -15,7 +15,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ygorluizfrazao&count_private=true&show_icons=true&theme=radical" alt="Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorluizfrazaot&theme=radical" alt="Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygorluizfrazaot&theme=radical&layout=compact" alt="Languages"/>
   </a>
 </div>
 <br/>
